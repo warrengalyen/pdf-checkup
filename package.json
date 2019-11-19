@@ -1,0 +1,20 @@
+{
+  "name": "pdf-checkup",
+  "version": "0.0.0",
+  "description": "Localized PDF attribute reporter",
+  "bugs": "https://github.com/wgalyen/pdf-checkup/issues/",
+  "homepage": "https://www.mechanikadesign.com/bellapps/pdf-checkup/",
+  "scripts": {
+    "test": "grunt travis"
+  },
+  "main": "index.html",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0",
+    "grunt-dev-update": "^2.0.0"
+  },
+  "license": "GPLv2",
+  "author": "Warren Galyen"
+}
